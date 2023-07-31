@@ -1,0 +1,6 @@
+secrets.json
+.ipynb_checkpoints
+.DS_Store
+.ionide/symbolCache.db
+*.json
+*.csv
